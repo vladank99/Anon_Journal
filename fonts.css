@@ -1,0 +1,155 @@
+@font-face {
+    font-family: 'Roc-grotesk-bold';
+    src: url('Fontspring-DEMO-rocgrotesk-medium.woff');
+    }
+
+@font-face {
+    font-family: 'Roc-grotesk-light';
+    src: url('Fontspring-DEMO-rocgroteskwide-light.woff');
+}
+
+@font-face {
+    font-family: 'Montserrat-Bold';
+    src: url('Montserrat-Bold.woff');
+}
+
+ @font-face {
+    font-family: 'Montserrat-Medium';
+    src: url('Montserrat-Medium.woff');
+}
+
+.left h3 {
+    font-family: 'Montserrat-Medium';
+    font-weight: 500;
+    font-size: 68px;
+    line-height: 136%;
+    border-style: solid;
+    color: #242529;
+}
+
+.right a{
+    font-family: 'Roc-grotesk-bold';
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 40px;
+    text-decoration: none; 
+}
+
+.black_m a {
+    color: #242529;
+}
+
+.on-scroll{
+    color: #FFFFFF!important ;
+}
+
+.blur_text h4 {
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 46px;
+    color: #242529;
+    font-family: 'Roc-grotesk-bold';
+    filter: blur(10px);
+}
+
+.blur_text p {
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 46px;
+    font-family: 'Roc-grotesk-light';
+    color: #242529;
+    filter: blur(10px);
+}
+
+.H3_icon h3 {
+    font-weight: 500;
+    font-size: 68px;
+    line-height: 136%;
+    color: #FFFFFF;
+    font-family: 'Montserrat-Medium';
+}
+
+#section_2_p  {
+    font-family: 'Roc-grotesk-light';
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 46px;
+    color: rgba(243, 243, 243, 0.9);
+    width: 712px;
+}
+
+.Third_page h2{
+    font-family: 'Roc-grotesk-bold';
+    font-weight: 700;
+    font-size: 84px;
+    line-height: 105.9%;
+    color: #FFFFFF;
+    width: 960px;
+}
+
+.Third_page h3 {
+    font-weight: 500;
+    font-size: 68px;
+    line-height: 136%;
+    font-family: 'Montserrat-Medium';
+    color: #FFFFFF;
+}
+
+
+.Third_page h4{
+    font-family: 'Roc-grotesk-bold';
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 46px;
+    color: #FFFFFF;
+}
+
+.Third_page p{
+    font-family: 'Roc-grotesk-light';
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 46px;
+    color: rgba(243, 243, 243, 0.9);
+}
+
+.Main_elements h3{
+    font-family: 'Montserrat-Medium';
+    font-weight: 500;
+    font-size: 68px;
+    line-height: 136%;
+    border-style: solid;
+    color: #242529;
+}
+
+
+.Copyrights p{
+    font-family: 'Roc-grotesk-light';
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 40px;
+    color: rgba(243, 243, 243, 0.9);
+}
+
+.Menu a{
+    font-family: 'Roc-grotesk-bold';
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 40px;
+    text-decoration: none; 
+    color: #FFFFFF;}
+
+.dropdown-content h4{
+    font-family: 'Roc-grotesk-bold';
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 46px;
+    color: #242429;
+}
+
+.dropdown-content p{
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 46px;
+    font-family: 'Roc-grotesk-light';
+    color: #242429;
+}

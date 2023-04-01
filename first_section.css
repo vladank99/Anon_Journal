@@ -1,0 +1,75 @@
+/*ПЕРВЫЙ ЭКРАН*/
+.Main_screen{
+    display: flex;
+    padding: 0px;
+    column-gap: 176px;
+    padding-left: 60px;
+    padding-top: 48px;
+}
+
+/*ЛЕВАЯ ЧАСТЬ*/
+.left {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 36px
+}
+
+/*ANON JOURNAL LOGO*/
+.left h1 {
+    content: url(Logoeye_h1.svg);
+    border-style: solid;
+    width: 600px;
+    height: 508px;
+    top: 0px;
+    position: relative
+}
+
+/*Кнопка Start reading*/
+.left .btn_dark {
+    padding: 28px 60px; 
+    border-radius: 40px;
+    color:#FFFFFF;
+    font-family: 'Montserrat-Bold';
+    font-weight: 700;
+    font-size: 40px;
+    text-decoration: none;
+    background: #242529;
+    border-style: solid;
+}
+
+/*ПРАВАЯ ЧАСТЬ*/
+.right {
+    width: 660px;
+    display: flex;
+    flex-direction: column;
+    padding: 0px;
+    border-style: solid;
+    gap: 104px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+/* МЕНЮШКА */
+.right nav ul {
+    display: flex;
+    justify-content: flex-end;
+    position: fixed;
+    gap: 60px;
+    z-index: 100
+  }
+
+ /* ЭЛЕМЕНТЫ МЕНЮШКИ */
+li{
+    display: inline;
+}
+
+ /* БЛЮР ТЕКСТ */
+.right .blur_text {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 42px;
+    width: 660px;
+}
